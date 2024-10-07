@@ -1,0 +1,2 @@
+In FS1_maximum inundation depth.dat, FS2_maximum inundation depth.dat, FS3_maximum inundation depth.dat, FS1_maximum inundation depth.dat:
+the variable: maximum inundation depth in these files only show the values in the range of the Macau Peninsula
