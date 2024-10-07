@@ -1,0 +1,2 @@
+the 08_00.dat, 11_40.dat, 12_50.dat, 13_30.dat, 14_30.dat, and 16.40.dat files repectively show:
+the variables of inundation depth, water level, and Inlets drianage discharge at 08:00, 11:40, 12:50, 13:30, 14:30 and 16:40
