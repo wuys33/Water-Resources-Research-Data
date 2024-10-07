@@ -1,0 +1,1 @@
+The data corresponding to each figure and table in the submitted paper of Water Resources Research has been placed in folders named after the figure and table titles. Complex data is explained using readme.txt in each folder.
